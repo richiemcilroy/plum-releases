@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "version": "0.1.0",
+  "build": 23,
+  "tag": "v0.1.0-alpha.23",
+  "release": {
+    "url": "https://github.com/richiemcilroy/plum-releases/releases/download/v0.1.0-alpha.23/release.json",
+    "sha256": "db42a664e5c234ca0fb370a51ccc3a91fe5aa2df675c30887053b19b302b672e"
+  },
+  "appcast": null
+}
